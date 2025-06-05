@@ -1,2 +1,2 @@
 # vg_sales-dashboard-
-Power BI dashboard visualizing video game sales
+Power BI dashboard visualizing video games sales
